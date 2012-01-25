@@ -1,0 +1,1 @@
+<div><input type="button" class="button" value="Post" onclick="location.href='<?php echo base_url()?>index.php/post_controller/'" /><br/><br/><input type="button" class="button" value="Comment" onclick="location.href='<?php echo base_url()?>index.php/comment_controller/'" /><br/><br/><div>
